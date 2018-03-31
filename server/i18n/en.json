@@ -1,0 +1,30 @@
+[{
+  "language": "English",
+  "i18n": "en",
+  "ns": "foodie-cater",
+  "translation": {
+    "foodie-cater": {
+      "restaurant": {
+        "field": {
+          "name": "Name",
+          "email": "Email",
+          "city": "City",
+          "owner": "Owner",
+          "cuisines": "Cuisines",
+          "dishes": "Dishes",
+          "reviews": "Reviews",
+          "earnings": "Earnings"
+        },
+        "placeholder": {
+          "name": "John Smith",
+          "email": "johnsmith@localhost",
+          "owner": "John Smith"
+        },
+        "action": {
+          "new": "Add New Restaurant",
+          "add": "Add Restaurant"
+        }
+      }
+    }
+  }
+}]

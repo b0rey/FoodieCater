@@ -1,0 +1,7 @@
+<template name="restaurants">
+  {{#if hasPermission 'restaurants'}}
+    <div class="dashboard">
+      {{> React restaurantsComponent}}
+    </div>
+  {{/if}}
+</template>
